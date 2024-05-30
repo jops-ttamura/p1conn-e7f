@@ -2545,7 +2545,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig4__0_Sampleperiod_NV"
+      "id": "SignalConfig4__0_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig4__1_SignalSource_NV",
@@ -2592,7 +2593,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig4__1_Sampleperiod_NV"
+      "id": "SignalConfig4__1_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig4__2_SignalSource_NV",
@@ -2639,7 +2641,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig4__2_Sampleperiod_NV"
+      "id": "SignalConfig4__2_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig4__3_SignalSource_NV",
@@ -2686,7 +2689,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig4__3_Sampleperiod_NV"
+      "id": "SignalConfig4__3_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig4__4_SignalSource_NV",
@@ -2733,7 +2737,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig4__4_Sampleperiod_NV"
+      "id": "SignalConfig4__4_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig4__5_SignalSource_NV",
@@ -2780,7 +2785,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig4__5_Sampleperiod_NV"
+      "id": "SignalConfig4__5_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig4__6_SignalSource_NV",
@@ -2827,7 +2833,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig4__6_Sampleperiod_NV"
+      "id": "SignalConfig4__6_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig4__7_SignalSource_NV",
@@ -2874,7 +2881,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig4__7_Sampleperiod_NV"
+      "id": "SignalConfig4__7_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig4__8_SignalSource_NV",
@@ -2921,7 +2929,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig4__8_Sampleperiod_NV"
+      "id": "SignalConfig4__8_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig4__9_SignalSource_NV",
@@ -2968,7 +2977,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig4__9_Sampleperiod_NV"
+      "id": "SignalConfig4__9_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig5__0_SignalSource_NV",
@@ -3015,7 +3025,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig5__0_Sampleperiod_NV"
+      "id": "SignalConfig5__0_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig5__1_SignalSource_NV",
@@ -3062,7 +3073,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig5__1_Sampleperiod_NV"
+      "id": "SignalConfig5__1_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig5__2_SignalSource_NV",
@@ -3109,7 +3121,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig5__2_Sampleperiod_NV"
+      "id": "SignalConfig5__2_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig5__3_SignalSource_NV",
@@ -3156,7 +3169,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig5__3_Sampleperiod_NV"
+      "id": "SignalConfig5__3_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig5__4_SignalSource_NV",
@@ -3203,7 +3217,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig5__4_Sampleperiod_NV"
+      "id": "SignalConfig5__4_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig5__5_SignalSource_NV",
@@ -3250,7 +3265,8 @@
       "value": 0
     },
     {
-      "id": "SignalConfig5__5_Sampleperiod_NV"
+      "id": "SignalConfig5__5_Sampleperiod_NV",
+      "value": 4294967295
     },
     {
       "id": "SignalConfig5__6_SignalSource_NV",
@@ -3297,7 +3313,1064 @@
       "value": 0
     },
     {
-      "id": "SignalConfig5__6_Sampleperiod_NV"
+      "id": "SignalConfig5__6_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig5__7_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig5__7_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig5__7_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig5__7_PIU_NV",
+      "value": 2561507162
+    },
+    {
+      "id": "SignalConfig5__7_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig5__7_SS__NV",
+      "value": 32
+    },
+    {
+      "id": "SignalConfig5__7__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig5__7__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig5__7__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig5__7__OO_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig5__7__UU_NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig5__7_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig5__8_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig5__8_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig5__8_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig5__8_PIU_NV",
+      "value": 2561507162
+    },
+    {
+      "id": "SignalConfig5__8_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig5__8_SS__NV",
+      "value": 24
+    },
+    {
+      "id": "SignalConfig5__8__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig5__8__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig5__8__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig5__8__OO_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig5__8__UU_NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig5__8_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig5__9_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig5__9_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig5__9_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig5__9_PIU_NV",
+      "value": 2555444558
+    },
+    {
+      "id": "SignalConfig5__9_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig5__9_SS__NV",
+      "value": 16
+    },
+    {
+      "id": "SignalConfig5__9__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig5__9__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig5__9__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig5__9__OO_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig5__9__UU_NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig5__9_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig6__0_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig6__0_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__0_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__0_PIU_NV",
+      "value": 2555444558
+    },
+    {
+      "id": "SignalConfig6__0_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig6__0_SS__NV",
+      "value": 24
+    },
+    {
+      "id": "SignalConfig6__0__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__0__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__0__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__0__OO_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__0__UU_NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__0_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig6__1_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig6__1_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__1_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__1_PIU_NV",
+      "value": 2555444558
+    },
+    {
+      "id": "SignalConfig6__1_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig6__1_SS__NV",
+      "value": 32
+    },
+    {
+      "id": "SignalConfig6__1__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__1__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__1__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__1__OO_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__1__UU_NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__1_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig6__2_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig6__2_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__2_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__2_PIU_NV",
+      "value": 2555444558
+    },
+    {
+      "id": "SignalConfig6__2_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig6__2_SS__NV",
+      "value": 40
+    },
+    {
+      "id": "SignalConfig6__2__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__2__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__2__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__2__OO_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__2__UU_NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__2_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig6__3_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig6__3_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__3_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__3_PIU_NV",
+      "value": 2622522596
+    },
+    {
+      "id": "SignalConfig6__3_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig6__3_SS__NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__3__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__3__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__3__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__3__OO_NV",
+      "value": -40
+    },
+    {
+      "id": "SignalConfig6__3__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig6__3_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig6__4_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig6__4_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__4_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__4_PIU_NV",
+      "value": 2622522596
+    },
+    {
+      "id": "SignalConfig6__4_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig6__4_SS__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__4__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__4__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__4__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__4__OO_NV",
+      "value": -40
+    },
+    {
+      "id": "SignalConfig6__4__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig6__4_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig6__5_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig6__5_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__5_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__5_PIU_NV",
+      "value": 2622522596
+    },
+    {
+      "id": "SignalConfig6__5_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig6__5_SS__NV",
+      "value": 16
+    },
+    {
+      "id": "SignalConfig6__5__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__5__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__5__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__5__OO_NV",
+      "value": -40
+    },
+    {
+      "id": "SignalConfig6__5__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig6__5_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig6__6_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig6__6_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__6_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__6_PIU_NV",
+      "value": 2622522596
+    },
+    {
+      "id": "SignalConfig6__6_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig6__6_SS__NV",
+      "value": 24
+    },
+    {
+      "id": "SignalConfig6__6__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__6__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__6__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__6__OO_NV",
+      "value": -40
+    },
+    {
+      "id": "SignalConfig6__6__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig6__6_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig6__7_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig6__7_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__7_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__7_PIU_NV",
+      "value": 2555383268
+    },
+    {
+      "id": "SignalConfig6__7_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig6__7_SS__NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__7__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__7__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__7__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__7__OO_NV",
+      "value": -40
+    },
+    {
+      "id": "SignalConfig6__7__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig6__7_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig6__8_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig6__8_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__8_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__8_PIU_NV",
+      "value": 2354072051
+    },
+    {
+      "id": "SignalConfig6__8_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig6__8_SS__NV",
+      "value": 40
+    },
+    {
+      "id": "SignalConfig6__8__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__8__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__8__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__8__OO_NV",
+      "value": -50
+    },
+    {
+      "id": "SignalConfig6__8__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig6__8_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig6__9_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig6__9_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__9_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig6__9_PIU_NV",
+      "value": 1153
+    },
+    {
+      "id": "SignalConfig6__9_SML_NV",
+      "value": 511
+    },
+    {
+      "id": "SignalConfig6__9_SS__NV",
+      "value": 32
+    },
+    {
+      "id": "SignalConfig6__9__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig6__9__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__9__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig6__9__OO_NV",
+      "value": -40
+    },
+    {
+      "id": "SignalConfig6__9__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig6__9_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig7__0_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig7__0_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__0_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__0_PIU_NV",
+      "value": 1154
+    },
+    {
+      "id": "SignalConfig7__0_SML_NV",
+      "value": 511
+    },
+    {
+      "id": "SignalConfig7__0_SS__NV",
+      "value": 32
+    },
+    {
+      "id": "SignalConfig7__0__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig7__0__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__0__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__0__OO_NV",
+      "value": -40
+    },
+    {
+      "id": "SignalConfig7__0__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig7__0_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig7__1_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig7__1_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__1_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__1_PIU_NV",
+      "value": 1156
+    },
+    {
+      "id": "SignalConfig7__1_SML_NV",
+      "value": 511
+    },
+    {
+      "id": "SignalConfig7__1_SS__NV",
+      "value": 32
+    },
+    {
+      "id": "SignalConfig7__1__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig7__1__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__1__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__1__OO_NV",
+      "value": -40
+    },
+    {
+      "id": "SignalConfig7__1__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig7__1_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig7__2_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig7__2_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__2_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__2_PIU_NV",
+      "value": 1153
+    },
+    {
+      "id": "SignalConfig7__2_SML_NV",
+      "value": 511
+    },
+    {
+      "id": "SignalConfig7__2_SS__NV",
+      "value": 40
+    },
+    {
+      "id": "SignalConfig7__2__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig7__2__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__2__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__2__OO_NV",
+      "value": -40
+    },
+    {
+      "id": "SignalConfig7__2__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig7__2_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig7__3_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig7__3_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__3_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__3_PIU_NV",
+      "value": 1154
+    },
+    {
+      "id": "SignalConfig7__3_SML_NV",
+      "value": 511
+    },
+    {
+      "id": "SignalConfig7__3_SS__NV",
+      "value": 40
+    },
+    {
+      "id": "SignalConfig7__3__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig7__3__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__3__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__3__OO_NV",
+      "value": -40
+    },
+    {
+      "id": "SignalConfig7__3__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig7__3_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig7__4_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig7__4_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__4_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__4_PIU_NV",
+      "value": 1156
+    },
+    {
+      "id": "SignalConfig7__4_SML_NV",
+      "value": 511
+    },
+    {
+      "id": "SignalConfig7__4_SS__NV",
+      "value": 40
+    },
+    {
+      "id": "SignalConfig7__4__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig7__4__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__4__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__4__OO_NV",
+      "value": -40
+    },
+    {
+      "id": "SignalConfig7__4__UU_NV",
+      "value": 6
+    },
+    {
+      "id": "SignalConfig7__4_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig7__5_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig7__5_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__5_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__5_PIU_NV",
+      "value": 2622524900
+    },
+    {
+      "id": "SignalConfig7__5_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig7__5_SS__NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__5__L__NV",
+      "value": 16
+    },
+    {
+      "id": "SignalConfig7__5__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__5__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__5__OO_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__5__UU_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__5_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig7__6_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig7__6_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__6_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__6_PIU_NV",
+      "value": 2622524900
+    },
+    {
+      "id": "SignalConfig7__6_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig7__6_SS__NV",
+      "value": 16
+    },
+    {
+      "id": "SignalConfig7__6__L__NV",
+      "value": 16
+    },
+    {
+      "id": "SignalConfig7__6__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__6__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__6__OO_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__6__UU_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__6_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig7__7_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig7__7_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__7_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__7_PIU_NV",
+      "value": 2622546916
+    },
+    {
+      "id": "SignalConfig7__7_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig7__7_SS__NV",
+      "value": 32
+    },
+    {
+      "id": "SignalConfig7__7__L__NV",
+      "value": 16
+    },
+    {
+      "id": "SignalConfig7__7__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__7__DD_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__7__OO_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__7__UU_NV",
+      "value": 3
+    },
+    {
+      "id": "SignalConfig7__7_Sampleperiod_NV",
+      "value": 4294967295
+    },
+    {
+      "id": "SignalConfig7__8_SignalSource_NV",
+      "value": 2
+    },
+    {
+      "id": "SignalConfig7__8_LogToPortal_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__8_CCH_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__8_PIU_NV",
+      "value": 2622496228
+    },
+    {
+      "id": "SignalConfig7__8_SML_NV",
+      "value": 536870911
+    },
+    {
+      "id": "SignalConfig7__8_SS__NV",
+      "value": 48
+    },
+    {
+      "id": "SignalConfig7__8__L__NV",
+      "value": 8
+    },
+    {
+      "id": "SignalConfig7__8__MM_NV",
+      "value": 1
+    },
+    {
+      "id": "SignalConfig7__8__DD_NV",
+      "value": 5
+    },
+    {
+      "id": "SignalConfig7__8__OO_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__8__UU_NV",
+      "value": 0
+    },
+    {
+      "id": "SignalConfig7__8_Sampleperiod_NV",
+      "value": 4294967295
     }
   ],
   "virtualParameters": [
@@ -3619,7 +4692,7 @@
     },
     {
       "id": "SignalConfig3__9_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig4__0_SignalSource_NV",
@@ -3627,7 +4700,7 @@
     },
     {
       "id": "SignalConfig4__0_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig4__1_SignalSource_NV",
@@ -3635,7 +4708,7 @@
     },
     {
       "id": "SignalConfig4__1_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig4__2_SignalSource_NV",
@@ -3643,7 +4716,7 @@
     },
     {
       "id": "SignalConfig4__2_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig4__3_SignalSource_NV",
@@ -3651,7 +4724,7 @@
     },
     {
       "id": "SignalConfig4__3_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig4__4_SignalSource_NV",
@@ -3659,7 +4732,7 @@
     },
     {
       "id": "SignalConfig4__4_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig4__5_SignalSource_NV",
@@ -3667,7 +4740,7 @@
     },
     {
       "id": "SignalConfig4__5_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig4__6_SignalSource_NV",
@@ -3675,7 +4748,7 @@
     },
     {
       "id": "SignalConfig4__6_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig4__7_SignalSource_NV",
@@ -3683,7 +4756,7 @@
     },
     {
       "id": "SignalConfig4__7_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig4__8_SignalSource_NV",
@@ -3691,7 +4764,7 @@
     },
     {
       "id": "SignalConfig4__8_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig4__9_SignalSource_NV",
@@ -3699,7 +4772,7 @@
     },
     {
       "id": "SignalConfig4__9_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig5__0_SignalSource_NV",
@@ -3707,7 +4780,7 @@
     },
     {
       "id": "SignalConfig5__0_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig5__1_SignalSource_NV",
@@ -3715,7 +4788,7 @@
     },
     {
       "id": "SignalConfig5__1_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig5__2_SignalSource_NV",
@@ -3723,7 +4796,7 @@
     },
     {
       "id": "SignalConfig5__2_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig5__3_SignalSource_NV",
@@ -3731,7 +4804,7 @@
     },
     {
       "id": "SignalConfig5__3_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig5__4_SignalSource_NV",
@@ -3739,7 +4812,7 @@
     },
     {
       "id": "SignalConfig5__4_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig5__5_SignalSource_NV",
@@ -3747,7 +4820,7 @@
     },
     {
       "id": "SignalConfig5__5_SignalSource_NV",
-      "unit": ""
+      "unit": null
     },
     {
       "id": "SignalConfig5__6_SignalSource_NV",
@@ -3755,7 +4828,183 @@
     },
     {
       "id": "SignalConfig5__6_SignalSource_NV",
-      "unit": ""
+      "unit": null
+    },
+    {
+      "id": "SignalConfig5__7_SignalSource_NV",
+      "name": "PTC_Output"
+    },
+    {
+      "id": "SignalConfig5__7_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig5__8_SignalSource_NV",
+      "name": "PTC_Outlet_Temp"
+    },
+    {
+      "id": "SignalConfig5__8_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig5__9_SignalSource_NV",
+      "name": "Fan_PWM_Main"
+    },
+    {
+      "id": "SignalConfig5__9_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig6__0_SignalSource_NV",
+      "name": "Fan_PWM_Sub"
+    },
+    {
+      "id": "SignalConfig6__0_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig6__1_SignalSource_NV",
+      "name": "Fan_PWM_Cond"
+    },
+    {
+      "id": "SignalConfig6__1_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig6__2_SignalSource_NV",
+      "name": "Fan_PWM_HO"
+    },
+    {
+      "id": "SignalConfig6__2_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig6__3_SignalSource_NV",
+      "name": "TMP_Amb"
+    },
+    {
+      "id": "SignalConfig6__3_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig6__4_SignalSource_NV",
+      "name": "TMP_Amb_Mot"
+    },
+    {
+      "id": "SignalConfig6__4_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig6__5_SignalSource_NV",
+      "name": "TMP_Amb_LIB"
+    },
+    {
+      "id": "SignalConfig6__5_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig6__6_SignalSource_NV",
+      "name": "TMP_Amb_CAB1"
+    },
+    {
+      "id": "SignalConfig6__6_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig6__7_SignalSource_NV",
+      "name": "TMP_HO"
+    },
+    {
+      "id": "SignalConfig6__7_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig6__8_SignalSource_NV",
+      "name": "TMP_LIB"
+    },
+    {
+      "id": "SignalConfig6__8_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig6__9_SignalSource_NV",
+      "name": "TMP_MOT1"
+    },
+    {
+      "id": "SignalConfig6__9_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig7__0_SignalSource_NV",
+      "name": "TMP_MOT2"
+    },
+    {
+      "id": "SignalConfig7__0_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig7__1_SignalSource_NV",
+      "name": "TMP_MOT4"
+    },
+    {
+      "id": "SignalConfig7__1_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig7__2_SignalSource_NV",
+      "name": "TMP_INV1"
+    },
+    {
+      "id": "SignalConfig7__2_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig7__3_SignalSource_NV",
+      "name": "TMP_INV2"
+    },
+    {
+      "id": "SignalConfig7__3_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig7__4_SignalSource_NV",
+      "name": "TMP_INV4"
+    },
+    {
+      "id": "SignalConfig7__4_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig7__5_SignalSource_NV",
+      "name": "Press_PPS"
+    },
+    {
+      "id": "SignalConfig7__5_SignalSource_NV",
+      "unit": "mV"
+    },
+    {
+      "id": "SignalConfig7__6_SignalSource_NV",
+      "name": "Press_PLS"
+    },
+    {
+      "id": "SignalConfig7__6_SignalSource_NV",
+      "unit": "mV"
+    },
+    {
+      "id": "SignalConfig7__7_SignalSource_NV",
+      "name": "Press_Pilot"
+    },
+    {
+      "id": "SignalConfig7__7_SignalSource_NV",
+      "unit": null
+    },
+    {
+      "id": "SignalConfig7__8_SignalSource_NV",
+      "name": "Press_Lift_Alarm"
+    },
+    {
+      "id": "SignalConfig7__8_SignalSource_NV",
+      "unit": "MPa"
     }
   ]
 }
