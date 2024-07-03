@@ -1430,7 +1430,7 @@
     },
     {
       "id": "SignalConfig1__9_SS__NV",
-      "value": 16
+      "value": 24
     },
     {
       "id": "SignalConfig1__9__L__NV",
@@ -1482,7 +1482,7 @@
     },
     {
       "id": "SignalConfig2__0_SS__NV",
-      "value": 48
+      "value": 56
     },
     {
       "id": "SignalConfig2__0__L__NV",
@@ -1534,7 +1534,7 @@
     },
     {
       "id": "SignalConfig2__1_SS__NV",
-      "value": 48
+      "value": 56
     },
     {
       "id": "SignalConfig2__1__L__NV",
@@ -1690,7 +1690,7 @@
     },
     {
       "id": "SignalConfig2__4_SS__NV",
-      "value": 40
+      "value": 48
     },
     {
       "id": "SignalConfig2__4__L__NV",
@@ -3362,7 +3362,7 @@
     },
     {
       "id": "SignalConfig5__7_Sampleperiod_NV",
-      "value": 4294967295
+      "value": 1000
     },
     {
       "id": "SignalConfig5__8_SignalSource_NV",
@@ -3386,7 +3386,7 @@
     },
     {
       "id": "SignalConfig5__8_SS__NV",
-      "value": 24
+      "value": 16
     },
     {
       "id": "SignalConfig5__8__L__NV",
@@ -3402,15 +3402,15 @@
     },
     {
       "id": "SignalConfig5__8__OO_NV",
-      "value": 0
+      "value": -254
     },
     {
       "id": "SignalConfig5__8__UU_NV",
-      "value": 8
+      "value": 6
     },
     {
       "id": "SignalConfig5__8_Sampleperiod_NV",
-      "value": 4294967295
+      "value": 1000
     },
     {
       "id": "SignalConfig5__9_SignalSource_NV",
@@ -3650,7 +3650,7 @@
     },
     {
       "id": "SignalConfig6__3_Sampleperiod_NV",
-      "value": 4294967295
+      "value": 1000
     },
     {
       "id": "SignalConfig6__4_SignalSource_NV",
@@ -3698,7 +3698,7 @@
     },
     {
       "id": "SignalConfig6__4_Sampleperiod_NV",
-      "value": 4294967295
+      "value": 1000
     },
     {
       "id": "SignalConfig6__5_SignalSource_NV",
@@ -3746,7 +3746,7 @@
     },
     {
       "id": "SignalConfig6__5_Sampleperiod_NV",
-      "value": 4294967295
+      "value": 1000
     },
     {
       "id": "SignalConfig6__6_SignalSource_NV",
@@ -3794,7 +3794,7 @@
     },
     {
       "id": "SignalConfig6__6_Sampleperiod_NV",
-      "value": 4294967295
+      "value": 1000
     },
     {
       "id": "SignalConfig6__7_SignalSource_NV",
